@@ -1,4 +1,6 @@
-# 🏗 Scaffold-ETH
+# 🏗 Scaffold-ETH - with additional create-react-app Typescript and Tailwind
+
+For of scaffold-eth template that includes an additional Typescript based front-end with Tailwind
 
 > everything you need to build on Ethereum! 🚀
 
